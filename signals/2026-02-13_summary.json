@@ -1,6 +1,6 @@
 {
   "date": "2026-02-13",
-  "scan_time": "14:01",
+  "scan_time": "14:26",
   "mode": "eod",
   "universe": "nifty500",
   "regime": "ACCUMULATION",
@@ -8,7 +8,7 @@
   "nifty": 25471.1,
   "stocks_scanned": 500,
   "total_signals": 64,
-  "new_signals": 64,
+  "new_signals": 0,
   "strategies": {
     "VCP": 37,
     "EMA21_Bounce": 10,
