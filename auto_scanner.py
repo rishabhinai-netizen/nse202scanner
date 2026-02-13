@@ -167,9 +167,15 @@ def update_tracker():
     
     # Collect all OPEN signals
     all_signals = []
+    _str_cols = ["Status", "Exit_Date", "Exit_Price", "Exit_Reason", "PnL_Pct"]
     for f in signal_files:
         try:
             df = pd.read_csv(f)
+            # Force string dtype on columns that may be empty (read as float64)
+            for c in _str_cols:
+                if c in df.columns:
+                    df[c] = df[c].fillna("").astype(object)
+                    df[c] = df[c].replace("nan", "")
             all_signals.append((f, df))
         except:
             continue
@@ -313,9 +319,15 @@ def _rebuild_tracker(all_signals=None):
     if all_signals is None:
         signal_files = sorted(SIGNALS_DIR.glob("*_signals.csv"))
         all_signals = []
+        _str_cols = ["Status", "Exit_Date", "Exit_Price", "Exit_Reason", "PnL_Pct"]
         for f in signal_files:
             try:
-                all_signals.append((f, pd.read_csv(f)))
+                df = pd.read_csv(f)
+                for c in _str_cols:
+                    if c in df.columns:
+                        df[c] = df[c].fillna("").astype(object)
+                        df[c] = df[c].replace("nan", "")
+                all_signals.append((f, df))
             except:
                 continue
     
