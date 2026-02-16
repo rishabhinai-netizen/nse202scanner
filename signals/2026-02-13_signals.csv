@@ -55,7 +55,7 @@ Date,Time,Strategy,Strategy_Name,Symbol,Signal,CMP,Entry,SL,T1,T2,RR,Confidence,
 2026-02-13,14:01,Failed_Breakout_Short,Failed Breakout Short,ATHERENERG,SHORT,708.25,708.25,751.92,642.75,599.08,2.5,72,72.0,Automobile and Auto Components,ACCUMULATION,3,OK,OPEN,,,,
 2026-02-13,14:01,Failed_Breakout_Short,Failed Breakout Short,INDHOTEL,SHORT,699.9,699.9,719.29,670.82,666.47,1.7,72,47.0,Consumer Services,ACCUMULATION,3,OK,OPEN,,,,
 2026-02-13,14:01,Failed_Breakout_Short,Failed Breakout Short,LT,SHORT,4173.9,4173.9,4222.9,4100.4,4023.4,3.1,72,61.0,Construction,ACCUMULATION,3,OK,TARGET,2026-02-13,4100.4,Target 1 Hit,1.79
-2026-02-13,14:01,Failed_Breakout_Short,Failed Breakout Short,TATAPOWER,SHORT,374.1,374.1,384.24,358.89,348.75,2.5,72,44.0,Power,ACCUMULATION,3,OK,OPEN,,,,
+2026-02-13,14:01,Failed_Breakout_Short,Failed Breakout Short,TATAPOWER,SHORT,374.1,374.1,384.24,358.89,348.75,2.5,72,44.0,Power,ACCUMULATION,3,OK,STOPPED,2026-02-16,384.24,Stop Loss Hit,-2.64
 2026-02-13,14:01,Failed_Breakout_Short,Failed Breakout Short,UNOMINDA,SHORT,1244.0,1244.0,1268.48,1207.28,1182.8,2.5,72,45.0,Automobile and Auto Components,ACCUMULATION,3,OK,TARGET,2026-02-13,1207.28,Target 1 Hit,3.04
 2026-02-13,14:01,Failed_Breakout_Short,Failed Breakout Short,ERIS,SHORT,1414.4,1414.4,1546.12,1216.82,1085.1,2.5,70,36.0,Healthcare,ACCUMULATION,3,OK,OPEN,,,,
 2026-02-13,14:01,Failed_Breakout_Short,Failed Breakout Short,GLENMARK,SHORT,1997.6,1997.6,2066.94,1893.59,1824.25,2.5,67,67.0,Healthcare,ACCUMULATION,3,OK,OPEN,,,,
