@@ -1,0 +1,19 @@
+{
+  "date": "2026-02-17",
+  "scan_time": "11:43",
+  "mode": "intraday",
+  "universe": "nifty200",
+  "regime": "ACCUMULATION",
+  "regime_score": 4,
+  "nifty": 25725.4,
+  "stocks_scanned": 185,
+  "total_signals": 60,
+  "new_signals": 60,
+  "strategies": {
+    "VCP": 40,
+    "EMA21_Bounce": 13,
+    "52WH_Breakout": 1,
+    "Last30Min_ATH": 5,
+    "Failed_Breakout_Short": 1
+  }
+}
