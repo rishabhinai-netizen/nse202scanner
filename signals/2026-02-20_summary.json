@@ -1,19 +1,19 @@
 {
   "date": "2026-02-20",
-  "scan_time": "11:37",
-  "mode": "intraday",
-  "universe": "nifty200",
+  "scan_time": "14:12",
+  "mode": "eod",
+  "universe": "nifty500",
   "regime": "ACCUMULATION",
   "regime_score": 2,
   "nifty": 25571.25,
-  "stocks_scanned": 185,
-  "total_signals": 79,
-  "new_signals": 79,
+  "stocks_scanned": 500,
+  "total_signals": 127,
+  "new_signals": 48,
   "strategies": {
-    "VCP": 41,
-    "EMA21_Bounce": 22,
-    "52WH_Breakout": 1,
-    "Last30Min_ATH": 13,
+    "VCP": 73,
+    "EMA21_Bounce": 33,
+    "52WH_Breakout": 2,
+    "Last30Min_ATH": 17,
     "Failed_Breakout_Short": 2
   }
 }
