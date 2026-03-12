@@ -1,0 +1,19 @@
+{
+  "date": "2026-03-12",
+  "scan_time": "11:36",
+  "mode": "intraday",
+  "universe": "nifty200",
+  "regime": "PANIC",
+  "regime_score": -3,
+  "nifty": 23639.15,
+  "stocks_scanned": 185,
+  "total_signals": 38,
+  "new_signals": 38,
+  "strategies": {
+    "VCP": 13,
+    "EMA21_Bounce": 13,
+    "52WH_Breakout": 2,
+    "Last30Min_ATH": 8,
+    "Failed_Breakout_Short": 2
+  }
+}
