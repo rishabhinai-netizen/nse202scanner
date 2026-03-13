@@ -1,0 +1,11 @@
+Date,Time,Strategy,Strategy_Name,Symbol,Signal,CMP,Entry,SL,T1,T2,RR,Confidence,RS,Sector,Regime,Regime_Score,Regime_Fit,Status,Exit_Date,Exit_Price,Exit_Reason,PnL_Pct
+2026-03-13,11:36,VCP,VCP (Minervini),ABB,BUY,6392.5,6554.0,5693.64,7844.54,9654.9,3.6,70,100.0,Capital Goods,PANIC,-3,OK,OPEN,,,,
+2026-03-13,11:36,VCP,VCP (Minervini),CUMMINSIND,BUY,4649.7,4987.0,4433.64,5817.04,6801.55,3.3,70,74.0,Capital Goods,PANIC,-3,OK,OPEN,,,,
+2026-03-13,11:36,VCP,VCP (Minervini),TORNTPHARM,BUY,4390.0,4482.9,4124.5,5020.5,5798.44,3.7,70,100.0,Healthcare,PANIC,-3,OK,OPEN,,,,
+2026-03-13,11:36,VCP,VCP (Minervini),VEDL,BUY,689.55,743.5,670.65,852.78,854.43,1.5,67,100.0,Metals & Mining,PANIC,-3,OK,OPEN,,,,
+2026-03-13,11:36,VCP,VCP (Minervini),BSE,BUY,2797.0,2897.3,2489.89,3508.42,3915.83,2.5,65,76.0,Financial Services,PANIC,-3,OK,OPEN,,,,
+2026-03-13,11:36,Failed_Breakout_Short,Failed Breakout Short,NATIONALUM,SHORT,387.35,387.35,416.92,343.0,313.43,2.5,75,100.0,Metals & Mining,PANIC,-3,OK,OPEN,,,,
+2026-03-13,11:36,Failed_Breakout_Short,Failed Breakout Short,NTPC,SHORT,384.45,384.45,397.6,364.72,351.57,2.5,70,100.0,Power,PANIC,-3,OK,OPEN,,,,
+2026-03-13,11:36,Failed_Breakout_Short,Failed Breakout Short,ATGL,SHORT,565.9,565.9,659.81,425.04,331.13,2.5,70,62.0,Oil Gas & Consumable Fuels,PANIC,-3,OK,OPEN,,,,
+2026-03-13,11:36,Failed_Breakout_Short,Failed Breakout Short,ADANIPOWER,SHORT,146.57,146.57,155.4,133.32,124.49,2.5,70,74.0,Power,PANIC,-3,OK,OPEN,,,,
+2026-03-13,11:36,Failed_Breakout_Short,Failed Breakout Short,LINDEINDIA,SHORT,6944.5,6944.5,7322.99,6376.76,5998.27,2.5,67,100.0,Chemicals,PANIC,-3,OK,OPEN,,,,
