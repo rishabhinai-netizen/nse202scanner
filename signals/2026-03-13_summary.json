@@ -1,16 +1,16 @@
 {
   "date": "2026-03-13",
-  "scan_time": "11:36",
-  "mode": "intraday",
-  "universe": "nifty200",
+  "scan_time": "14:12",
+  "mode": "eod",
+  "universe": "nifty500",
   "regime": "PANIC",
   "regime_score": -3,
   "nifty": 23151.1,
-  "stocks_scanned": 185,
-  "total_signals": 10,
-  "new_signals": 10,
+  "stocks_scanned": 499,
+  "total_signals": 31,
+  "new_signals": 21,
   "strategies": {
-    "VCP": 5,
-    "Failed_Breakout_Short": 5
+    "VCP": 18,
+    "Failed_Breakout_Short": 13
   }
 }
